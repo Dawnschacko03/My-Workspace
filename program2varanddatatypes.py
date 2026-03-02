@@ -6,3 +6,12 @@ z=z+1
 x=y
 y=z-x
 print(x,y,z,sep="\t")
+
+#Boolean data type
+a=(5<6)
+print(a)
+
+#Complex data type
+b=3+4j
+print(b.real,b.imag,sep="\t")
+
