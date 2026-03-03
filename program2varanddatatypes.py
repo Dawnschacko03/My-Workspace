@@ -45,3 +45,4 @@ print(float(tuple1[5]+tuple2[2]))
 dict1={"name":"dawn","age":"23","gender":"male"}
 print(dict1['name'],dict1['age'])
 print(dict1['gender'])
+print(dict1.keys())
