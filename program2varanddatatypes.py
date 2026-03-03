@@ -31,7 +31,7 @@ print(string)
 
 #List in python
 list1=[1,2,3,4,5,6,7,3.145]
-list2=[8,9,10,11,12,13,14]
+list2=[8,9,10,11,12,13,14,15]
 print(list1+list2)
 print(float(list1[7]+list2[6]))
 
