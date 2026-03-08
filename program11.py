@@ -1,4 +1,4 @@
-
+#Prime Number
 n=int(input(""))
 def prime(n):
     if n>1:
