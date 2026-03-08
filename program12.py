@@ -1,4 +1,4 @@
-
+#Sum of digits in a number
 n=int(input(""))
 def sum(n):
     sum1=0
