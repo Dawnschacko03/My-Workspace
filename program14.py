@@ -1,4 +1,5 @@
 #Print all even numbers from 1 to n.
+
 n=int(input(""))
 def numbers(n):
 
