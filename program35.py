@@ -1,2 +1,3 @@
 
 n=""
+def count(n):
