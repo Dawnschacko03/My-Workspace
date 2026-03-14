@@ -1,5 +1,4 @@
 
 n=""
-def count(n):
-    c=""
+def count(n): 
     
