@@ -1,4 +1,4 @@
 
 n=""
 def count(n):
-    ehdveyivuoS
+    ehdve
