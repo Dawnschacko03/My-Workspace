@@ -1,9 +1,4 @@
 
 n=""
-def count(n):
-    dfw
-    for i in n:
-dw
-WindowsError
-qsw
+def coun
 
