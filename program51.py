@@ -1,3 +1,3 @@
 
-#print the longest word number in a list
+#print the longest word number 
 n=["end","elephant","baddie","thiruvananthapuram","dawn"]
