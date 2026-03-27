@@ -7,4 +7,3 @@ for i in range(0,len(n)):
     d=len(n[i])
     c.append(d)
     
-print(c)
