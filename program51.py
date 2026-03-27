@@ -8,5 +8,4 @@ for i in range(0,len(n)):
     c.append(d)
     
 print(c)
-e=max(c)
 print(e)
