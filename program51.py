@@ -5,5 +5,4 @@ d=0
 c=[]
 for i in range(0,len(n)):
     d=len(n[i])
-    c.append(d)
-    
+
