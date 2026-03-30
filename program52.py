@@ -5,5 +5,3 @@ for i in range(0,len(n),1):
     if n[i]==0:
         n.remove(n[i])
         n.append(i)
-    
-print(n)
