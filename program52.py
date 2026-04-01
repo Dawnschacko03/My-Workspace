@@ -6,4 +6,5 @@ for i in range(0,len(n),1):
         n.append(0)
         n.remove(0)
 print(n)
+
         
