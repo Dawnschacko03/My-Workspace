@@ -5,5 +5,5 @@ e=[]
 for i in n:
     d=i.split()
     e.append(d[0])
-print(e)
+print(e
 
