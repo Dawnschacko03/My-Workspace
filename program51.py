@@ -1,5 +1,5 @@
 #print the first name of the names in the list
-n=["Rohit Sharma","Sachin Tendulkar","rahul kp"]
+n=["Rohit Sharma","Sachin Tendulkar","rahul kumar","Virat Kohli"]
 d=[]
 e=[]
 for i in n:
