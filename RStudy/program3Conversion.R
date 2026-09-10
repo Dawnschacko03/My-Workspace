@@ -1,0 +1,1 @@
+typeof(as.double(as.integer(1)))
