@@ -11,3 +11,6 @@ d<-c("a","b","c","d","e")
 e<-c("nice", "to", "meet", "you")
 f<-paste(d,e)
 f
+ 
+ g<-runif(10)
+ g
