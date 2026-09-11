@@ -6,3 +6,5 @@ example<-c(2,4,6,8)
 example1<-c(1,3,5,7)
 example %*% example1
 
+s<-seq(from=5, to=20, by=2)
+s
