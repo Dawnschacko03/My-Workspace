@@ -9,6 +9,10 @@ typeof(as.character(as.complex(1)))
 25+20>=20+20
 25!=22
 
-(23>24)&(24<23)
+(23>24)&(24>23)
 
-(22<24)|(24>23)
+(23>24)|(24>23)
+
+random<-runif(100)
+print(random)
+random[1:10]
