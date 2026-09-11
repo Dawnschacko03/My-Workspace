@@ -14,3 +14,10 @@ f
  
  g<-runif(10)
  g
+
+ c<-rep(3,times=5)
+ c
+
+ a<-c(1,2,3,4,5)
+ b<-rep(5,times=5)
+ a+b
