@@ -10,4 +10,4 @@ y<-cbind(y,c(16,17,18))
 y<-rbind(y,c(19,20,21))
 y
 
-solve(x)
+solve
