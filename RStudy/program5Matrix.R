@@ -11,4 +11,4 @@ y<-rbind(y,c(19,20,21))
 y
 
 
-solve
+solv
