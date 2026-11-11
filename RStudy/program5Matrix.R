@@ -5,7 +5,7 @@ x
 x<-cbind(x,c(7,8,9,10))
 x
 
-y<-matrix(seq(10,15,1),3,2,FALSE)
+y<-matrix(seq(10,15,1),3,2)
 y<-cbind(y,c(16,17,18))
 y<-rbind(y,c(19,20,21))
 y
